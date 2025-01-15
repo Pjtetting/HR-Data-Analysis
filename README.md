@@ -44,16 +44,14 @@ This project aims to analyze HR data and provide insights into:
 ## **Screenshots**
 
 1. **Dashboard Overview**
+   ![image](https://github.com/user-attachments/assets/87a61c6a-dedb-4236-92c2-1450720a61cc)
    
-   
+3. **Filtered View - Year 2011**
+   ![image](https://github.com/user-attachments/assets/9fe9eb0b-6d0e-42ef-8984-396bbb2e78ad)
 
-2. **Filtered View - Year 2011**
-   
   
-
-3. **Active Employees in Production Department**
-   
-
+4. **Active Employees in Production Department**
+    ![image](https://github.com/user-attachments/assets/f2e683f2-24bb-4e56-84b3-07f8e64e7875)
 
 ---
 
@@ -61,5 +59,6 @@ This project aims to analyze HR data and provide insights into:
 For questions or collaboration, feel free to reach out:
 
 **Your Name**
-[![Indeed]([https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yourprofile](https://profile.indeed.com/p/parkert-15trx7l))
+[![Indeed](https://img.shields.io/badge/Indeed-Profile-blue?style=flat-square&logo=indeed)](https://profile.indeed.com/p/parkert-15trx7l)
+
 
