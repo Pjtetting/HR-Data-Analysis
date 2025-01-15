@@ -59,6 +59,7 @@ This project aims to analyze HR data and provide insights into:
 For questions or collaboration, feel free to reach out:
 
 **Parker Tetting**
+
 [![Indeed](https://img.shields.io/badge/Indeed-Profile-blue?style=flat-square&logo=indeed)](https://profile.indeed.com/p/parkert-15trx7l)
 
 
